@@ -1,18 +1,10 @@
 # Asciify
 
-Turns a picture into Ascii Art
+Turns a picture into Ascii art
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+Calculates the gray value of an image and turns it into Ascii art in a Windows Forms text box. User uploads a picture file and can choose kernel size.
 
 ## Authors
 
